@@ -1,0 +1,19 @@
+.author-list {
+    padding: 10px 20px 20px;
+}
+
+.author-name {
+    font-size: 16px;
+    padding: 5px;
+    cursor: pointer;
+    text-decoration: underline;
+    display: inline-block;
+}
+
+.author-name:hover {
+    color: darkblue;
+}
+
+.author-name:active {
+    color: blue;
+}

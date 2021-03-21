@@ -1,0 +1,23 @@
+.comment-box {
+    padding-top: 20px;
+}
+
+.comment-box__inner {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.comment-box__author {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.comment-box__message {
+    font-size: 15px;
+    margin-top: 4px;
+    white-space: pre-wrap;
+}
+
+.comment-box__message--highlighted {
+    background-color: yellow;
+}
